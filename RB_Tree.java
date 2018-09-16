@@ -9,6 +9,14 @@ public class RB_Tree<E>{
 
   }
 
+  private void insertTwoNode(){
+
+  }
+
+  private void insertThreeNode(){
+    
+  }
+
   public static void main(String[] args){
 
   }
